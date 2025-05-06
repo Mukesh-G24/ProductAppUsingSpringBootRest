@@ -17,6 +17,7 @@ public class ProductCrudOperationsUsingSpringJpaApplication {
 	public static void main(String[] args) {
 		
 		SpringApplication.run(ProductCrudOperationsUsingSpringJpaApplication.class, args);
+		System.out.println("day1 changes...");
 		
 	}
 
